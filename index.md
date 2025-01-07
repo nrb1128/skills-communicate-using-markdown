@@ -19,3 +19,10 @@ var myVar = "Hello, world!";
 ``` java
 System.out.print("Hello World");
 ```
+
+- [x] Wake up
+- [x] Prepare for work
+- [x] Go to work
+- [x] Time In
+- [ ] Lunch
+- [ ] Time Out
